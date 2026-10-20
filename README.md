@@ -39,3 +39,8 @@ The program clears the screen with `system("CLS")`, so it is written for Windows
 - Input validation and PIN protection
 - Cross-platform screen clearing
 - Transaction history
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
